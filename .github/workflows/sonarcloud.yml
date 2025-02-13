@@ -53,7 +53,7 @@ jobs:
         with:
           # Additional arguments for the SonarScanner CLI
           args:
-            -Dsonar.projectKey=Beeks-Oganization_buildhigh
+            -Dsonar.projectKey=Beeks-Oganization-buildhigh
             -Dsonar.organization=beeks-oganization
             -Dsonar.verbose=true
           projectBaseDir: .
